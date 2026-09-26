@@ -1,10 +1,10 @@
 # ============================================================
-# DISKLESS NIC OPTIMIZATION / CREATED BY STYLEM1XED
-# Intel / Realtek / Killer
-#
+# DISKLESS NIC OPTIMIZATION
+# For Intel / Realtek / Killer network cards
 # Existing registry values ONLY.
 # Missing values are NEVER created.
 # Original registry values are backed up first.
+# CREATED BY STYLEM1XED
 # ============================================================
 
 $ErrorActionPreference = "SilentlyContinue"
